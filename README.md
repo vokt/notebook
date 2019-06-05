@@ -7,6 +7,8 @@
 
 ![Code coverage](https://codecov.io/gh/vokt/notebook/commit/ccc1998ba97f9cd32bdf7316df3c9deadb5db42d/graphs/sunburst.svg "Code coverage")
 
+![Code coverage link](https://codecov.io/gh/vokt/notebook/commit/ccc1998ba97f9cd32bdf7316df3c9deadb5db42d/graphs/sunburst "Code coverage link")
+
 
 The Jupyter notebook is a web-based notebook environment for interactive
 computing.
