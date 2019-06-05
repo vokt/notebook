@@ -6,6 +6,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/vokt/notebook/badge.svg?branch=master)](https://coveralls.io/github/vokt/notebook?branch=master)             
 [![CodeFactor](https://www.codefactor.io/repository/github/vokt/notebook/badge/master)](https://www.codefactor.io/repository/github/vokt/notebook/overview/master)
 
+https://codecov.io/gh/vokt/notebook/commit/ccc1998ba97f9cd32bdf7316df3c9deadb5db42d/graphs/sunburst.svg
+
+
 The Jupyter notebook is a web-based notebook environment for interactive
 computing.
 
