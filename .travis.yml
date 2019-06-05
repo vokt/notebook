@@ -103,3 +103,4 @@ matrix:
 
 after_success:
     - codecov
+    - coveralls
