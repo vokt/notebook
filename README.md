@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/jupyter/notebook.svg?branch=master)](https://travis-ci.org/jupyter/notebook)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-notebook/badge/?version=latest)](https://jupyter-notebook.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/vokt/notebook/badge.svg?branch=master)](https://coveralls.io/github/vokt/notebook?branch=master)             
-
+[![CodeFactor](https://www.codefactor.io/repository/github/vokt/notebook/badge/master)](https://www.codefactor.io/repository/github/vokt/notebook/overview/master)
 
 The Jupyter notebook is a web-based notebook environment for interactive
 computing.
