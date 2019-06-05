@@ -3,10 +3,9 @@
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)
 [![Build Status](https://travis-ci.org/vokt/notebook.svg?branch=master)](https://travis-ci.org/vokt/notebook)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-notebook/badge/?version=latest)](https://jupyter-notebook.readthedocs.io/en/latest/?badge=latest)
-[![Coverage Status](https://coveralls.io/repos/github/vokt/notebook/badge.svg?branch=master)](https://coveralls.io/github/vokt/notebook?branch=master)             
 [![CodeFactor](https://www.codefactor.io/repository/github/vokt/notebook/badge/master)](https://www.codefactor.io/repository/github/vokt/notebook/overview/master)
 
-![Code coverage](https://codecov.io/gh/vokt/notebook/commit/ccc1998ba97f9cd32bdf7316df3c9deadb5db42d/graphs/sunburst.svg)
+![Code coverage](https://codecov.io/gh/vokt/notebook/commit/ccc1998ba97f9cd32bdf7316df3c9deadb5db42d/graphs/sunburst.svg "Code coverage")
 
 
 The Jupyter notebook is a web-based notebook environment for interactive
